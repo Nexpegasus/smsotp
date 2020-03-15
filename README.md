@@ -1,2 +1,0 @@
-# smsotp
-sms
